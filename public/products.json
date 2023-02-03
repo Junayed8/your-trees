@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "price": 6163,
+      "name": "japanese bot",
+      "img": "./picture/image4.jpeg"
+    },
+    {
+      "id": 2,
+      "price": 1512,
+      "name": "Chinese Bot",
+      "img": "./picture/image7.jpeg"
+    },
+    {
+      "id": 3,
+      "price": 2231,
+      "name": "Bonsai paper",
+      "img": "./picture/image3.jpeg"
+    },
+    {
+      "id": 4,
+      "price": 1200,
+      "name": "Bonsai water-bot",
+      "img": "./picture/image4.jpeg"
+    },
+    {
+      "id": 5,
+      "price": 3000,
+      "name": "Bonsai pink",
+      "img": "./picture/image5.jpeg"
+    },
+    {
+      "id": 6,
+      "price": 2031,
+      "name": "Bonsai little-bot",
+      "img": "./picture/image6.jpeg"
+    },
+    {
+      "id": 7,
+      "price": 600,
+      "name": "Chinese Bot",
+      "img": "./picture/image7.jpeg"
+    },
+    {
+      "id": 8,
+      "price": 1450,
+      "name": "Bonsai ella",
+      "img": "./picture/image3.jpeg"
+    },
+    {
+      "id": 9,
+      "price": 1031,
+      "name": "Bonsai painting",
+      "img": "./picture/image8.jpeg"
+    }
+  ]

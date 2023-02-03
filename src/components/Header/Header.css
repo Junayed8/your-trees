@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    font-size: large;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    
+}
+.header-img{
+    height: 100px;
+    width: 80px;
+}
